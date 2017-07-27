@@ -21,7 +21,7 @@
     <snapshotRepository>
       <id>nexus</id>
       <name>Nexus Snapshot</name>
-      <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+      <url>http://http://10.0.2.15:8081/repository/sample/</url>
     </snapshotRepository>
     <site>
       <id>nexus</id>
